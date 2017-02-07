@@ -1,7 +1,15 @@
-
-
 div {
   background-color: azure;
   border: 1px solid aquamarine;
   padding: 30px;
+}
+
+
+
+header{
+	text-align: center;
+}
+
+main{
+	margin-left: 100px;
 }
